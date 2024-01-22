@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmirjonKarimoff2007&label=Profile%20views&color=0e75b6&style=flat" alt="AmirjonKarimoff1007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmirjonKarimoff1007" alt="AmirjonKarimoff1007" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><i class="bx bxl-telegram bx-tada bx-rotate-90"></i></a> </p>
 
 - 🔭 I’m currently working on Freelancer.
 
