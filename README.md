@@ -1,4 +1,5 @@
 [![MasterHead](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)](https://amirjonkarimov.netlify.app/)
+<link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
 <h1 align="center">Hi 👋, I'm Amirjon Karimov</h1>
 <h3 align="center">I'm Junior Developer from Uzbekistan!</h3>
 
