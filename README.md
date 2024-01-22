@@ -32,7 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmirjonKarimoff2007&show_icons=true&locale=en&theme=radical&bg_color=30,711c91,091833&icon_color=fd00ff&title_color=0abdc6&text_color=ff0677" alt="Amirjonkarimoff2007" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themirmakhmudov&&theme=tokyonight" alt="Mr.Mirmakhmudov" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirjonKarimoff2007&&theme=tokyonight" alt="AmirjonKarimoff2007" /></p>
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmirjonKarimoff2007&theme=2077"></p>
