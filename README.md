@@ -30,7 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmirjonKarimoff2007&show_icons=true&locale=en&layout=compact" alt="asliddinovbehzodjon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmirjonKarimoff2007&show_icons=true&locale=en" alt="asliddinovbehzodjon" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmirjonKarimoff2007&show_icons=true&locale=en&theme=tokyonight" alt="asliddinovbehzodjon" /></p>
 
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
