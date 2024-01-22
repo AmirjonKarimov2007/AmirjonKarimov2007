@@ -17,8 +17,6 @@
 
 - 📄 Know about my experiences [https://amirjonkarimov.netlify.app/#about](https://amirjonkarimov.netlify.app/#about)
 
-- ⚡ Fun fact **I think,I'm funny person!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/Amirjon_Karimov_Blog" target="blank"><img align="center" src="https://brandlogos.net/wp-content/uploads/2021/11/telegram-logo.png" alt="Amirjon_Karimov_Blog" height="45" width="40" /></a>
