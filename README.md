@@ -12,11 +12,11 @@
 
 - 👨‍💻 All of my projects are available at [https://amirjonkarimov.netlify.app/#portfolio](https://amirjonkarimov.netlify.app/#portfolio)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,VUE,VUEX,PYTHON,AIOGRAM,FLASK,DJANGO,DJANGO REST FRAMEWORK,DJANGO CELERY,RABBITMQ,DJANGO CHANNELS,SQL,POSTGRESQL**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,PYTHON,AIOGRAM,DJANGO,SQL,POSTGRESQL**
 
-- 📫 How to reach me **behzodtuit@gmail.com**
+- 📫 How to reach me **amirjonkarimoff@gmail.com**
 
-- 📄 Know about my experiences [https://me.behzodasliddinov.uz/#about](https://me.behzodasliddinov.uz/#about)
+- 📄 Know about my experiences [https://amirjonkarimov.netlify.app/#about](https://amirjonkarimov.netlify.app/#about)
 
 - ⚡ Fun fact **I think,I'm funny person!**
 
