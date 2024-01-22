@@ -1,36 +1,132 @@
-<img src="https://github.com/theMirmakhmudov/theMirmakhmudov/assets/130051689/5c51d108-7ed0-4c1c-a86e-fa8d6e2434b4" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=F7F7F7&center=true&random=false&width=1080&height=200&lines=Hello+%F0%9F%91%8B%2C+I'm+Abdulmajid;I'm+Web+Developer+%F0%9F%8C%90;I'm+Front-end+Developer+%F0%9F%92%BB;I'm+Back-end+Developer+%E2%9C%94%EF%B8%8F" alt="Typing SVG" /></a>
-<h3 align="center">A passionate Front-end & Bak-end Developer from Uzbekistan 🇺🇿</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theMirmakhmudov" alt="Mr.Mirmakhmudov" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project Name</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      line-height: 1.6;
+      margin: 2em;
+      max-width: 800px;
+      background-color: #f8f8f8;
+    }
 
+    h1 {
+      color: #333;
+    }
 
-- 🔭 I’m currently working on **No I study.**
+    h2 {
+      color: #555;
+    }
 
-- 🌱 I’m currently learning **Back-end Python Advanced**
+    p {
+      color: #777;
+    }
 
-- 💬 Ask me about **Front-end , Back-end**
+    code {
+      background-color: #f4f4f4;
+      padding: 2px 4px;
+      border: 1px solid #ddd;
+    }
 
-- 📫 How to reach me **mr.mirmakhmmudov16112008@gmail.com**
+    img {
+      max-width: 100%;
+    }
 
-- ⚡ Fun fact **I like writing codes**
+    a {
+      color: #4078c0;
+    }
+  </style>
+</head>
+<body>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
+  <h1>Project Name</h1>
 
+  <img src="link_to_logo.png" alt="Project Logo">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=themirmakhmudov&show_icons=true&locale=en&theme=tokyonight" alt="Mr.Mirmakhmudov" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=themirmakhmudov&&theme=tokyonight" alt="Mr.Mirmakhmudov" /></p>
+  <blockquote>
+    <p>A brief description of your project goes here. Highlight its purpose and main features.</p>
+  </blockquote>
 
+  <h2>Table of Contents</h2>
 
+  <ul>
+    <li><a href="#about-the-project">About the Project</a></li>
+    <li><a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+        <li><a href="#usage">Usage</a></li>
+      </ul>
+    </li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ul>
 
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
-<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theMirmakhmudov&theme=2077"></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
+  <h2>About the Project</h2>
+
+  <p>Briefly explain what your project is about. Highlight its main goals, features, and why it's valuable.</p>
+
+  <h3>Key Features</h3>
+
+  <ul>
+    <li>Feature 1</li>
+    <li>Feature 2</li>
+    <li>Feature 3</li>
+  </ul>
+
+  <h2>Getting Started</h2>
+
+  <p>Provide instructions on how to get your project up and running on a local machine.</p>
+
+  <h3>Installation</h3>
+
+  <ol>
+    <li>Clone the repository: <code>git clone https://github.com/your-username/your-project.git</code></li>
+    <li>Navigate to the project directory: <code>cd your-project</code></li>
+    <li>Install dependencies: <code>npm install</code> or <code>yarn install</code></li>
+  </ol>
+
+  <h3>Usage</h3>
+
+  <p>Explain how to use your project. Provide examples and code snippets.</p>
+
+  <pre><code>$ npm run start</code></pre>
+
+  <p>Visit <a href="link_to_docs.md">our documentation</a> for more detailed information.</p>
+
+  <h2>Contributing</h2>
+
+  <p>Explain how others can contribute to your project. Include guidelines for submitting bug reports, feature requests, or code contributions.</p>
+
+  <h3>Code of Conduct</h3>
+
+  <p>Please follow our <a href="CODE_OF_CONDUCT.md">Code of Conduct</a> to ensure a positive and inclusive community.</p>
+
+  <h3>Pull Request Process</h3>
+
+  <ol>
+    <li>Fork the repository.</li>
+    <li>Create a new branch: <code>git checkout -b feature/awesome-feature</code></li>
+    <li>Commit your changes: <code>git commit -am 'Add awesome feature'</code></li>
+    <li>Push to the branch: <code>git push origin feature/awesome-feature</code></li>
+    <li>Submit a pull request.</li>
+  </ol>
+
+  <h2>License</h2>
+
+  <p>This project is licensed under the <a href="LICENSE.md">MIT License</a>.</p>
+
+  <h2>Acknowledgements</h2>
+
+  <p>Mention and thank contributors, libraries, or resources that have inspired or helped your project.</p>
+
+  <ul>
+    <li><a href="https://github.com/awesome-library">Awesome Library</a></li>
+    <li><a href="https://github.com/contributor1">Special Thanks to @contributor1</a></li>
+  </ul>
+
+</body>
+</html>
