@@ -1,132 +1,39 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Project Name</title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      line-height: 1.6;
-      margin: 2em;
-      max-width: 800px;
-      background-color: #f8f8f8;
-    }
+[![MasterHead](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)](https://me.behzodasliddinov.uz)
+<h1 align="center">Hi 👋, I'm Bekhzod Asliddinov</h1>
+<h3 align="center">I'm FullStack Web Develover from Uzbekistan!</h3>
 
-    h1 {
-      color: #333;
-    }
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asliddinovbehzodjon&label=Profile%20views&color=0e75b6&style=flat" alt="asliddinovbehzodjon" /> </p>
 
-    h2 {
-      color: #555;
-    }
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asliddinovbehzodjon" alt="asliddinovbehzodjon" /></a> </p>
 
-    p {
-      color: #777;
-    }
+- 🔭 I’m currently working on [Bir Zumda](https://birzumda.behzodasliddinov.uz)
 
-    code {
-      background-color: #f4f4f4;
-      padding: 2px 4px;
-      border: 1px solid #ddd;
-    }
+- 🌱 I’m currently learning **Nuxt.js,Data Science**
 
-    img {
-      max-width: 100%;
-    }
+- 👯 I’m looking to collaborate on [BigBook](https://bigbook.behzodasliddinov.uz/)
 
-    a {
-      color: #4078c0;
-    }
-  </style>
-</head>
-<body>
+- 👨‍💻 All of my projects are available at [https://me.behzodasliddinov.uz/#portfolio](https://me.behzodasliddinov.uz/#portfolio)
 
-  <h1>Project Name</h1>
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,VUE,VUEX,PYTHON,AIOGRAM,FLASK,DJANGO,DJANGO REST FRAMEWORK,DJANGO CELERY,RABBITMQ,DJANGO CHANNELS,SQL,POSTGRESQL**
 
-  <img src="link_to_logo.png" alt="Project Logo">
+- 📫 How to reach me **behzodtuit@gmail.com**
 
-  <blockquote>
-    <p>A brief description of your project goes here. Highlight its purpose and main features.</p>
-  </blockquote>
+- 📄 Know about my experiences [https://me.behzodasliddinov.uz/#about](https://me.behzodasliddinov.uz/#about)
 
-  <h2>Table of Contents</h2>
+- ⚡ Fun fact **I think,I'm funny person!**
 
-  <ul>
-    <li><a href="#about-the-project">About the Project</a></li>
-    <li><a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#usage">Usage</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ul>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://t.me/Bekhzod_Asliddinov" target="blank"><img align="center" src="https://brandlogos.net/wp-content/uploads/2021/11/telegram-logo.png" alt="asliddinovbehzod" height="45" width="40" /></a>
+<a href="https://linkedin.com/in/asliddinovbehzod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asliddinovbehzod" height="30" width="40" /></a>
+<a href="https://fb.com/behzodasliddinov.uz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="behzodasliddinov.uz" height="30" width="40" /></a>
+<a href="https://instagram.com/behzodasliddinov.uz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="behzodasliddinov.uz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/behzodasliddinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="behzodasliddinov" height="30" width="40" /></a>
+</p>
 
-  <h2>About the Project</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
 
-  <p>Briefly explain what your project is about. Highlight its main goals, features, and why it's valuable.</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asliddinovbehzodjon&show_icons=true&locale=en&layout=compact" alt="asliddinovbehzodjon" /></p>
 
-  <h3>Key Features</h3>
-
-  <ul>
-    <li>Feature 1</li>
-    <li>Feature 2</li>
-    <li>Feature 3</li>
-  </ul>
-
-  <h2>Getting Started</h2>
-
-  <p>Provide instructions on how to get your project up and running on a local machine.</p>
-
-  <h3>Installation</h3>
-
-  <ol>
-    <li>Clone the repository: <code>git clone https://github.com/your-username/your-project.git</code></li>
-    <li>Navigate to the project directory: <code>cd your-project</code></li>
-    <li>Install dependencies: <code>npm install</code> or <code>yarn install</code></li>
-  </ol>
-
-  <h3>Usage</h3>
-
-  <p>Explain how to use your project. Provide examples and code snippets.</p>
-
-  <pre><code>$ npm run start</code></pre>
-
-  <p>Visit <a href="link_to_docs.md">our documentation</a> for more detailed information.</p>
-
-  <h2>Contributing</h2>
-
-  <p>Explain how others can contribute to your project. Include guidelines for submitting bug reports, feature requests, or code contributions.</p>
-
-  <h3>Code of Conduct</h3>
-
-  <p>Please follow our <a href="CODE_OF_CONDUCT.md">Code of Conduct</a> to ensure a positive and inclusive community.</p>
-
-  <h3>Pull Request Process</h3>
-
-  <ol>
-    <li>Fork the repository.</li>
-    <li>Create a new branch: <code>git checkout -b feature/awesome-feature</code></li>
-    <li>Commit your changes: <code>git commit -am 'Add awesome feature'</code></li>
-    <li>Push to the branch: <code>git push origin feature/awesome-feature</code></li>
-    <li>Submit a pull request.</li>
-  </ol>
-
-  <h2>License</h2>
-
-  <p>This project is licensed under the <a href="LICENSE.md">MIT License</a>.</p>
-
-  <h2>Acknowledgements</h2>
-
-  <p>Mention and thank contributors, libraries, or resources that have inspired or helped your project.</p>
-
-  <ul>
-    <li><a href="https://github.com/awesome-library">Awesome Library</a></li>
-    <li><a href="https://github.com/contributor1">Special Thanks to @contributor1</a></li>
-  </ul>
-
-</body>
-</html>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asliddinovbehzodjon&show_icons=true&locale=en" alt="asliddinovbehzodjon" /></p>
