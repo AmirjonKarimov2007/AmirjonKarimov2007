@@ -1,18 +1,16 @@
-[![MasterHead](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)](https://me.behzodasliddinov.uz)
-<h1 align="center">Hi 👋, I'm Bekhzod Asliddinov</h1>
-<h3 align="center">I'm FullStack Web Develover from Uzbekistan!</h3>
+[![MasterHead](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)](https://amirjonkarimov.netlify.app/)
+<h1 align="center">Hi 👋, I'm Amirjon Karimov</h1>
+<h3 align="center">I'm Junior Developer from Uzbekistan!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asliddinovbehzodjon&label=Profile%20views&color=0e75b6&style=flat" alt="asliddinovbehzodjon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asliddinovbehzodjon" alt="asliddinovbehzodjon" /></a> </p>
 
-- 🔭 I’m currently working on [Bir Zumda](https://birzumda.behzodasliddinov.uz)
+- 🔭 I’m currently working on Freelancer.
 
-- 🌱 I’m currently learning **Nuxt.js,Data Science**
+- 🌱 I’m currently learning **Dart & Flutter**
 
-- 👯 I’m looking to collaborate on [BigBook](https://bigbook.behzodasliddinov.uz/)
-
-- 👨‍💻 All of my projects are available at [https://me.behzodasliddinov.uz/#portfolio](https://me.behzodasliddinov.uz/#portfolio)
+- 👨‍💻 All of my projects are available at [https://amirjonkarimov.netlify.app/#portfolio](https://amirjonkarimov.netlify.app/#portfolio)
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,VUE,VUEX,PYTHON,AIOGRAM,FLASK,DJANGO,DJANGO REST FRAMEWORK,DJANGO CELERY,RABBITMQ,DJANGO CHANNELS,SQL,POSTGRESQL**
 
