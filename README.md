@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)](https://amirjonkarimov.netlify.app/)
+[![MasterHead](https://i.ibb.co/f4cP1xz/logo.jpg)](https://amirjonkarimov.netlify.app/)
 <h1 align="center">Hi 👋, I'm Amirjon Karimov</h1>
 <h3 align="center">I'm Junior Developer from Uzbekistan!</h3>
 
