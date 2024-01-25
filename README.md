@@ -33,7 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmirjonKarimov2007&show_icons=true&locale=en&theme=radical&bg_color=30,711c91,091833&icon_color=fd00ff&title_color=0abdc6&text_color=ff0677" alt="AmirjonKarimov2007" /></p>
 
 <p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirjonKarimov2007&theme=radical&bg_color=30,711c91,091833&icon_color=fd00ff&title_color=0abdc6&text_color=ff0677" alt="Mr.Mirmakhmudov"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirjonKarimoff2007&theme=radical&bg_color=30,711c91,091833&icon_color=fd00ff&title_color=0abdc6&text_color=ff0677" alt="Mr.Mirmakhmudov"/>
 </p>
 
 
