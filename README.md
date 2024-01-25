@@ -32,7 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmirjonKarimov2007&show_icons=true&locale=en&theme=radical&bg_color=30,711c91,091833&icon_color=fd00ff&title_color=0abdc6&text_color=ff0677" alt="AmirjonKarimov2007" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=themirmakhmudov)](https://git.io/streak-stats)
 
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
