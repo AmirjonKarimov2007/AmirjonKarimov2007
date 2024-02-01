@@ -30,7 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmirjonKarimov2007&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AmirjonKarimov2007" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmirjonKarimov2007&show_icons=true&locale=en&&theme=tokyonight" alt="AmirjonKarimov2007" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmirjonKarimov2007&show_icons=true&locale=en" alt="AmirjonKarimov2007" /></p>
 
 <p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirjonkarimov2007&&theme=tokyonight" alt="Amirjon Karimov" /></p>
 
