@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmirjonKarimov2007" alt="AmirjonKarimov2007" /></a> </p>
 - 🔭 I’m currently working on Freelancer.
-
+-    I m Amirjon Karimov
 - 🌱 I’m currently learning **Dart & Flutter**
 
 - 👨‍💻 All of my projects are available at [https://amirjonkarimov.netlify.app/#portfolio](https://amirjonkarimov.netlify.app/#portfolio)
