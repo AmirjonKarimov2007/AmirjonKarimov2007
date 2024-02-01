@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmirjonKarimov2007&label=Profile%20views&style=flat" alt="AmirjonKarimov2007"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmirjonKarimov2007" alt="AmirjonKarimov2007" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmirjonKarimov2005" alt="AmirjonKarimov2007" /></a> </p>
 - 🔭 I’m currently working on Freelancer.
 
 - 🌱 I’m currently learning **Dart & Flutter**
