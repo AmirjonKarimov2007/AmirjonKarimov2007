@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Dart & Flutter**
 
-- 👨‍💻 All of my projects are available at [https://amirjonkarimov.netlify.app/#portfolio](https://amirjonkarimov.netlify.app/#portfolio)
+- 👨‍💻 All of my projects are available at [https://amirjonkarimov2007.github.io/portfolio/project-list.html](https://amirjonkarimov2007.github.io/portfolio/project-list.html)
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,PYTHON,AIOGRAM,DJANGO,SQL,POSTGRESQL**
 
 - 📫 How to reach me **amirjonkarimoff@gmail.com**
 
-- 📄 Know about my experiences [https://amirjonkarimov.netlify.app/#about](https://amirjonkarimov.netlify.app/#about)
+- 📄 Know about my experiences [https://amirjonkarimov2007.github.io/portfolio/about.html](https://amirjonkarimov2007.github.io/portfolio/about.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
