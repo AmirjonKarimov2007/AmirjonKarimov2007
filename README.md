@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/1J46Vs3/logo.jpg)](https://amirjonkarimov.netlify.app/)
+[![MasterHead](https://i.ibb.co/QHWZRD0/pixelcut-export.png)](https://AmirjonKarimov2007/portfolio.github.io/)
 <h1 align="center">Hi 👋, I'm Amirjon Karimov</h1>
 <h3 align="center">I'm Junior Developer from Uzbekistan!</h3>
 
