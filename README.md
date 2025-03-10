@@ -3,7 +3,7 @@
 <h3 align="center">I'm Junior Developer from Uzbekistan!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmirjonKarimov2007&label=Profile%20views&style=flat" alt="AmirjonKarimov2007"/> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=AmirjonKarimov2007)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmirjonKarimov2007" alt="AmirjonKarimov2007"/></a> </p>
 - 🔭 I’m currently working on Freelancer.
 
